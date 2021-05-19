@@ -1,0 +1,29 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "nome": "Caneta BIC",
+      "preco": 5.25
+    },
+    {
+      "id": 2,
+      "nome": "Caneta Colorida",
+      "preco": 5.79
+    },
+    {
+      "id": 3,
+      "nome": "caderno capa dura",
+      "preco": 19.9
+    },
+    {
+      "nome": "caderno capa dura  20 materia",
+      "preco": 24.7,
+      "id": 4
+    },
+    {
+      "nome": "lapis",
+      "preco": 2.66,
+      "id": 5
+    }
+  ]
+}
